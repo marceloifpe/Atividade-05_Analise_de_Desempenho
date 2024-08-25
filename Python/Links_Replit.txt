@@ -1,0 +1,2 @@
+https://replit.com/@MarceloAugust14/BubbleSort#main.py
+https://replit.com/@MarceloAugust14/MergeSort#main.py
