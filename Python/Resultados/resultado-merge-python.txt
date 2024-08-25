@@ -1,0 +1,10 @@
+Tempo de execução: 111.64 ms, RAM utilizada: 2796.00 KB
+Tempo de execução: 108.97 ms, RAM utilizada: 2796.00 KB
+Tempo de execução: 114.93 ms, RAM utilizada: 2796.00 KB
+Tempo de execução: 113.12 ms, RAM utilizada: 2796.00 KB
+Tempo de execução: 113.60 ms, RAM utilizada: 2792.00 KB
+Tempo de execução: 112.71 ms, RAM utilizada: 2800.00 KB
+Tempo de execução: 110.67 ms, RAM utilizada: 2792.00 KB
+Tempo de execução: 112.37 ms, RAM utilizada: 2792.00 KB
+Tempo de execução: 111.35 ms, RAM utilizada: 2796.00 KB
+Tempo de execução: 111.95 ms, RAM utilizada: 2796.00 KB
